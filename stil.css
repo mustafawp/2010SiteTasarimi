@@ -1,0 +1,85 @@
+body{
+    background-image: url("img/SBEML.gif");
+}
+#anadiv{
+    width: 800px;
+    height: 300px;
+    border: 3px;
+    border-style:groove;
+    border-color: black;
+}
+#ustyazi{
+    width: 800px;
+    height: 70px;
+    margin-top: -23px;
+    background-color: rgb(107, 0, 0);
+}
+h1{
+    text-align: center;
+    padding-top: 15px;
+    letter-spacing: 25px;
+    font-size: 35px;
+    color: white;
+}
+#div2{
+    width: 800px;
+    height: 230px;
+    display: flex;
+}
+#soldakidiv{
+    width: 160px;
+    height: 230px;
+}
+#btnlar{
+    width: 150px;
+    height: 25px;
+    margin-left: 4px;
+    margin-top: -15px;
+    padding-left: 2px;
+    text-align: left;
+    color: rgb(128, 32, 218);
+    transition: width 2s;
+}
+#sagdakidiv{
+    width: 650px;
+    height: 230px;
+}
+h4{
+    text-align: center;
+    color: black;
+    font-family: Arial;
+    font-size: 14px;
+}
+#duzenle{
+    padding-top: 20px;
+    text-align: center;
+}
+#duzenle2{
+    text-align: center;
+}
+#alt{
+    width: 800px;
+    height: 40px;
+    text-align: center;
+}
+hr{
+    width: 400px;
+}
+a{
+    color: purple;
+}
+#anadiv2{
+    width: 800px;
+    height: 400px;
+    border: 3px;
+    border-style:groove;
+    border-color: black;
+}
+#kirmizicizgi{
+    width: 500px;
+    height: 8px;
+    background-color: rgb(146, 2, 2);
+}
+#btnlar:hover {
+    width: 300px;
+  }
